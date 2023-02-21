@@ -1,8 +1,8 @@
 # Xeni
 
 
-This is a website made from a template made for my discord bot named Xeni
-Xeni website is now hosted on netlify too :D
+This is a website made from a template made for my discord bot named Xeni,
+Xeni's website is now hosted on netlify too :D
 
 ## The website src codes
 - Its taken from https://github.com/crizmo/elina
